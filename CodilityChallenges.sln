@@ -5,16 +5,28 @@ VisualStudioVersion = 16.0.808.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_BinaryGap", "Lesson1_BinaryGap\Lesson1_BinaryGap.csproj", "{1827A71D-431A-401B-8BAB-20D1B3F8FF28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2CyclicRotation", "Lesson2CyclicRotation\Lesson2CyclicRotation.csproj", "{BC28F18E-07C3-4FBB-BE05-A08157D34FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{3532CF3A-C10F-4B66-B97F-A12D7F0DD3F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Debug|anycpu.Build.0 = Debug|anycpu
-		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Release|anycpu.ActiveCfg = Release|anycpu
-		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Release|anycpu.Build.0 = Release|anycpu
+		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{1827A71D-431A-401B-8BAB-20D1B3F8FF28}.Release|anycpu.Build.0 = Release|Any CPU
+		{BC28F18E-07C3-4FBB-BE05-A08157D34FF3}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{BC28F18E-07C3-4FBB-BE05-A08157D34FF3}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{BC28F18E-07C3-4FBB-BE05-A08157D34FF3}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{BC28F18E-07C3-4FBB-BE05-A08157D34FF3}.Release|anycpu.Build.0 = Release|Any CPU
+		{3532CF3A-C10F-4B66-B97F-A12D7F0DD3F3}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{3532CF3A-C10F-4B66-B97F-A12D7F0DD3F3}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{3532CF3A-C10F-4B66-B97F-A12D7F0DD3F3}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{3532CF3A-C10F-4B66-B97F-A12D7F0DD3F3}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
