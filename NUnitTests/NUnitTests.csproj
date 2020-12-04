@@ -14,5 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Lesson3FrogJump\Lesson3FrogJump.csproj" />
+    <ProjectReference Include="..\Lesson4FrogRiverOne\Lesson4FrogRiverOne.csproj" />
   </ItemGroup>
 </Project>

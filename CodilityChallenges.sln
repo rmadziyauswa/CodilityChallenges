@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3FrogJump", "Lesson3F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTests", "NUnitTests\NUnitTests.csproj", "{93FC45CB-ACA9-4427-8360-8B09AF085C8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4FrogRiverOne", "Lesson4FrogRiverOne\Lesson4FrogRiverOne.csproj", "{D700CB12-FB13-4862-8019-8EEDB170CA42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -33,6 +35,10 @@ Global
 		{93FC45CB-ACA9-4427-8360-8B09AF085C8F}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{93FC45CB-ACA9-4427-8360-8B09AF085C8F}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{93FC45CB-ACA9-4427-8360-8B09AF085C8F}.Release|anycpu.Build.0 = Release|Any CPU
+		{D700CB12-FB13-4862-8019-8EEDB170CA42}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{D700CB12-FB13-4862-8019-8EEDB170CA42}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{D700CB12-FB13-4862-8019-8EEDB170CA42}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{D700CB12-FB13-4862-8019-8EEDB170CA42}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
